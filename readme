@@ -1,8 +1,8 @@
-# 📦 Name: $REPO_NAMES
+# 📦 Name: $NAME
 
-## 🔥 Multi-functional cheat for [Game Name]
+## 🔥 Multi-functional cheat for $NAME
 
-$REPO_NAMES is a powerful and stable tool designed to give you a competitive edge in [Game Name]. Tailored specifically for first-person and third-person shooters, it includes all the essential features for both legit and rage gameplay styles. The cheat is fully compatible with current versions of the game and is regularly updated to bypass protections and support new patches.
+$NAME is a powerful and stable tool designed to give you a competitive edge in $NAME. Tailored specifically for first-person and third-person shooters, it includes all the essential features for both legit and rage gameplay styles. The cheat is fully compatible with current versions of the game and is regularly updated to bypass protections and support new patches.
 
 ---
 
@@ -39,7 +39,7 @@ $REPO_NAMES is a powerful and stable tool designed to give you a competitive edg
 
 ## 🛡 Anti-Cheat and Safety
 
-- 🔐 Partial or full bypass of popular anti-cheat systems *(depending on the game)*  
+- 🔐 Partial or full bypass of popular anti-cheat systems 
 - 🚫 VAC, EAC, BattleEye — bypass available in legit-mode settings  
 - ⚠ Use at your own risk — account bans are always possible  
 - ✅ Recommended for use on secondary or disposable accounts
@@ -50,7 +50,7 @@ $REPO_NAMES is a powerful and stable tool designed to give you a competitive edg
 
 1. Disable antivirus and Windows Defender (if required)  
 2. Run the cheat **as administrator**  
-3. Launch [Game Name]  
+3. Launch $NAME  
 4. Inject manually or wait for auto-injection  
 5. Open the in-game menu using the **Insert** key  
 6. Configure features and enjoy your enhanced gameplay
